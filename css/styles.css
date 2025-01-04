@@ -14,8 +14,11 @@
     font-size: 18px;
 
     /* line-height: 21px; */ 
-    line-height: 117%;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+}
+.accent {
+color: #4d5ae5;
 }
