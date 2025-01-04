@@ -21,7 +21,7 @@
 .page-header .page-logo .web {
 color: #4d5ae5;
 }
-.page-header .navigation .link {
+.navigation .link {
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
@@ -30,7 +30,7 @@ color: #4d5ae5;
     letter-spacing: 0.02em;
     color: #2e2f42;  
 }
-.page-header .navigation .link:hover, .page-header .navigation .link:focus, .page-header .navigation .link:active {
+.navigation .link:hover, .page-header .navigation .link:focus, .page-header .navigation .link:active {
     text-decoration: none;
     color: #404bbf;
 }
