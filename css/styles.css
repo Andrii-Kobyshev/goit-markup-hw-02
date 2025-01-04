@@ -17,11 +17,12 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    color: #2e2f42;
 }
 .page-header .page-logo .web {
 color: #4d5ae5;
 }
-.page-header .contacts {
+.page-header ul {
     list-style-type: none;
 }
 .page-header .contacts .link {
