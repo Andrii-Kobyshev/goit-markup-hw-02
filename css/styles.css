@@ -46,6 +46,7 @@ color: #4d5ae5;
 .page-header .contacts .link:hover, .page-header .contacts .link:focus {
     text-decoration: none;
     color: #404bbf;
+    background: #404bbf;
 }
 
 ul {
