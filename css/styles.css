@@ -21,6 +21,9 @@
 .page-header .page-logo .web {
 color: #4d5ae5;
 }
+.contacts {
+    list-style-type: none;
+}
 .page-header .contacts .link {
     text-decoration: none;
     font-weight: 400;
@@ -29,7 +32,6 @@ color: #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    list-style-type: none;
 }
 .page-header .contacts .link:hover, .page-header .contacts .link:focus {
     text-decoration: none;
