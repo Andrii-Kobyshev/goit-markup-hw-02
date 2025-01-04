@@ -18,10 +18,22 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    text-decoration: none;
 }
 .page-header .page-logo .web {
 color: #4d5ae5;
 }
-.page-footer .page-logo .web {
-    color: #4d5ae5;
+.contacts .link-con {
+    font-weight: 400;
+    font-size: 16px;
+
+    /* line-height: 24px; */ 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+.contacts .link-con:hover, .contacts .link-con:focus {
+    color: #404bbf;
+    text-decoration: none;
 }
