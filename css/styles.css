@@ -18,6 +18,7 @@
     text-decoration: none;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    justify-content:center;
 }
 .page-header .page-logo .web {
 color: #4d5ae5;
@@ -29,7 +30,8 @@ color: #4d5ae5;
     
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;  
+    color: #2e2f42;
+    justify-content:center;
 }
 .navigation .link:hover, .page-header .navigation .link:focus, .page-header .navigation .link:active {
     text-decoration: none;
@@ -43,6 +45,7 @@ color: #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    justify-content:center;
 }
 .page-header .contacts .link:hover, .page-header .contacts .link:focus {
     text-decoration: none;
