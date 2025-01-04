@@ -8,7 +8,7 @@
     width: 1440px;
     height: 72px;
 }
-.page-logo {
+.page-header .page-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -19,6 +19,6 @@
     text-transform: uppercase;
     color: #2e2f42;
 }
-.page-logo .web {
+.page-header .page-logo .web {
 color: #4d5ae5;
 }
