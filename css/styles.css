@@ -23,7 +23,7 @@
 .page-header .page-logo .web {
 color: #4d5ae5;
 }
-.contacts .link-con {
+.page-header .contacts .link-con {
     font-weight: 400;
     font-size: 16px;
 
@@ -33,7 +33,7 @@ color: #4d5ae5;
     color: #434455;
     text-decoration: none;
 }
-.contacts .link-con:hover, .contacts .link-con:focus {
+.page-header .contacts .link-con:hover, .contacts .link-con:focus {
     color: #404bbf;
     text-decoration: none;
 }
