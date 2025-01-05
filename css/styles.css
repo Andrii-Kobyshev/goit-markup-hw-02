@@ -109,14 +109,14 @@ body {
 .our-team .list {
   background-color: #FFFFFF;
 }
-.our-team .title-team {
+.our-team .list .title-team {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.our-team .section-text {
+.our-team .list .section-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
