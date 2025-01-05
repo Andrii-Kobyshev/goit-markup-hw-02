@@ -63,7 +63,7 @@ color: #4d5ae5;
 ul {
     list-style-type: none;
 }
-.page-title {
+.page-main .page-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
