@@ -94,7 +94,7 @@ color: #4d5ae5;
 }
 .page-button:hover, .page-button:focus {
     text-decoration: none;
-    background: #404bbf;
+    background-color: #404bbf;
 }
 ul {
     list-style-type: none;
