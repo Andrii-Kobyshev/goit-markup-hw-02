@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -129,7 +129,7 @@
   letter-spacing: 0.02em;
 }
 .our-team .title {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
@@ -153,7 +153,6 @@
   letter-spacing: 0.02em;
 }
 .portfolio .title {
-  background-color: #ffffff;
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
@@ -181,7 +180,7 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
-.page-header .page-logo .web {
+.page-footer .page-logo .web {
   color: #f4f4fd;
 }
 .text-footer {
