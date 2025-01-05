@@ -79,10 +79,10 @@ color: #4d5ae5;
     font-size: 16px;
     line-height: 1.5;
 }
-ul {
-    list-style-type: none;
-}
 .page-button:hover, .page-button:focus {
     text-decoration: none;
     color: #404bbf;
+}
+ul {
+    list-style-type: none;
 }
