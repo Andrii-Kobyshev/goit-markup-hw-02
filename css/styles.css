@@ -16,10 +16,6 @@ body {
 .page-header .page-logo .web {
   color: #2e2f42;
 }
-.navigation {
-  list-style: none;
-  margin: 0;
-}
 .navigation .link {
   text-decoration: none;
   font-weight: 500;
@@ -39,7 +35,6 @@ body {
   font-style: normal;
 }
 .page-header .address .contacts .link {
-  margin-right: 20px;
   text-decoration: none;
   font-weight: 400;
   font-size: 16px;
@@ -67,7 +62,6 @@ body {
 .main-section .page-button {
   color: #fff;
   font-family: "Roboto", sans-serif;
-  border: none;
   cursor: pointer;
   background: #4d5ae5;
   font-weight: 500;
@@ -112,8 +106,10 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
-.our-team .title-team {
+.our-team .list {
   background-color: #FFFFFF;
+}
+.our-team .title-team {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
